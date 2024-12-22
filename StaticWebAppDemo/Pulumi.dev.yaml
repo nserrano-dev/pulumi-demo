@@ -1,0 +1,5 @@
+config:
+  StaticWebAppDemo:errorDocument: error.html
+  StaticWebAppDemo:indexDocument: index.html
+  StaticWebAppDemo:path: ./www
+  azure-native:location: westeurope

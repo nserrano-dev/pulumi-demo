@@ -1,0 +1,6 @@
+config:
+  FunctionAppDemo:appPath: ./app
+  FunctionAppDemo:errorDocument: error.html
+  FunctionAppDemo:indexDocument: index.html
+  FunctionAppDemo:sitePath: ./www
+  azure-native:location: westeurope
